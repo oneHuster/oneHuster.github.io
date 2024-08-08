@@ -31,7 +31,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yingtian@u.nus.edu'
     label: E-mail Me
-  - icon: brands/google
+  - icon: google-scholar
     url: https://scholar.google.com/citations?user=APA-glsAAAAJ&hl=en
   - icon: brands/linkedin
     url: https://www.linkedin.com/
